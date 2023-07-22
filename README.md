@@ -13,8 +13,8 @@ Welcome to the GUB Student Helper App repository! This mobile application is spe
 
 ## Screenshots
 
-![Splash Screen](/screenshots/splashscreen.png)
-![Home Page](/screenshots/homepage.png)
+![Splash Screen](splashscreen.png)
+![Home Page](homescreen.png)
 
 ## Getting Started
 
